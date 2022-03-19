@@ -37,8 +37,8 @@
 `git clone git@github.com:username/repository.git`
 
 ##  ак делать комит?
-* проверить статус репозитори€: `*git status*`
-* подготовить новый файл дл€ комита: `*git add git-how-to.md*`
-* проверить статус репозитори€: `*git status*`
-* сделать комит: `*git commit -m Уinitial commitФ*`
-* отправить изменени€ на сервер: `*git push*`
+* проверить статус репозитори€: `git status`
+* подготовить новый файл дл€ комита: `git add git-how-to.md`
+* проверить статус репозитори€: `git status`
+* сделать комит: `git commit -m Уinitial commitФ`
+* отправить изменени€ на сервер: `git push`
