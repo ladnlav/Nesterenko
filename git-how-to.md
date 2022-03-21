@@ -9,8 +9,9 @@
 ## Авторизация и синхронизация Git на компьютере
 
 0. Авторизироваться: 
-  1. git config --global user.name "*your name*"
-  2. git config --global user.email "*your email*"
+  1. `git config --global user.name "*your name*"`
+  2. `git config --global user.email "*your email*"`
+
 1. Убедиться, что подключение к серверу имеется
 `ssh -T git@github.com`
 
