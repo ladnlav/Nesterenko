@@ -11,16 +11,12 @@
 0. Авторизироваться: 
   1. `git config --global user.name "*your name*"`
   2. `git config --global user.email "*your email*"`
-
 1. Убедиться, что подключение к серверу имеется
 `ssh -T git@github.com`
-
 2. Запустить ssh-агент
 `eval "$(ssh-agent -s)"`
-
 3. Добавить ssh-ключ в ssh-агент
 `ssh-add /c/{путь к ключу}`
-
 4. Проверить авторизацию
 `ssh -T git@github.com`
 
