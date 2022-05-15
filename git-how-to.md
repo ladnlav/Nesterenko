@@ -10,8 +10,8 @@
 
 ```markdown
 1. Авторизироваться: 
-  1. `git config --global user.name "*your name*"`
-  2. `git config --global user.email "*your email*"`
+  1. git config --global user.name "*your name*"
+  2. git config --global user.email "*your email*"
 2. Убедиться, что подключение к серверу имеется
 `ssh -T git@github.com`
 3. Запустить ssh-агент
